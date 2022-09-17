@@ -1,4 +1,4 @@
-# Synapse Interview Tasks
+# Synapse ML Interview Tasks
 **Task 1**:
 
     1. Playing with built-ins!- Python function    
