@@ -8,7 +8,6 @@
  **Task 2**:
  
     2.1 Python script vs Jupyter notebook
-  
     2.2 Basic dataframe functions
   
  **Task 3**:
